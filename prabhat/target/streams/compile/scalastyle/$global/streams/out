@@ -1,0 +1,22 @@
+[0m[[0minfo[0m] [0mscalastyle using config E:\scala\prabhat\scalastyle-config.xml[0m
+[0m[[0mdebug[0m] [0mStarting scalastyle[0m
+[0m[[0mdebug[0m] [0mstart file E:\scala\prabhat\src\main\scala\edu\knoldus\dao\Database.scala[0m
+[0m[[0mdebug[0m] [0mend file E:\scala\prabhat\src\main\scala\edu\knoldus\dao\Database.scala[0m
+[0m[[0mdebug[0m] [0mstart file E:\scala\prabhat\src\main\scala\edu\knoldus\daoimp\ClientOperations.scala[0m
+[0m[[0mdebug[0m] [0mend file E:\scala\prabhat\src\main\scala\edu\knoldus\daoimp\ClientOperations.scala[0m
+[0m[[0mdebug[0m] [0mstart file E:\scala\prabhat\src\main\scala\edu\knoldus\daoimp\DepartmentOperations.scala[0m
+[0m[[0mdebug[0m] [0mend file E:\scala\prabhat\src\main\scala\edu\knoldus\daoimp\DepartmentOperations.scala[0m
+[0m[[0mdebug[0m] [0mstart file E:\scala\prabhat\src\main\scala\edu\knoldus\daoimp\EmployeeOperations.scala[0m
+[0m[[0mdebug[0m] [0mend file E:\scala\prabhat\src\main\scala\edu\knoldus\daoimp\EmployeeOperations.scala[0m
+[0m[[0mdebug[0m] [0mstart file E:\scala\prabhat\src\main\scala\edu\knoldus\daoimp\ProjectOperations.scala[0m
+[0m[[0mdebug[0m] [0mend file E:\scala\prabhat\src\main\scala\edu\knoldus\daoimp\ProjectOperations.scala[0m
+[0m[[0mdebug[0m] [0mstart file E:\scala\prabhat\src\main\scala\edu\knoldus\model\CURDOperations.scala[0m
+[0m[[0mdebug[0m] [0mend file E:\scala\prabhat\src\main\scala\edu\knoldus\model\CURDOperations.scala[0m
+[0m[[0mdebug[0m] [0mstart file E:\scala\prabhat\src\main\scala\edu\knoldus\mySqlConnection\Connection.scala[0m
+[0m[[0mdebug[0m] [0mend file E:\scala\prabhat\src\main\scala\edu\knoldus\mySqlConnection\Connection.scala[0m
+[0m[[0minfo[0m] [0mProcessed 7 file(s)[0m
+[0m[[0minfo[0m] [0mFound 0 errors[0m
+[0m[[0minfo[0m] [0mFound 0 warnings[0m
+[0m[[0minfo[0m] [0mFound 0 infos[0m
+[0m[[0minfo[0m] [0mFinished in 11 ms[0m
+[0m[[32msuccess[0m] [0mcreated output: E:\scala\prabhat\target[0m
